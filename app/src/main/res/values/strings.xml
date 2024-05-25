@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AGG5</string>
+    <string name="add">Добавить</string>
+    <string name="report">Отчет</string>
+    <string name="export">Экспорт</string>
+    <string name="import_text">Импорт</string>
+    <string name="name_text">Название</string>
+    <string name="code_text">Код</string>
+    <string name="save">Сохранить</string>
+</resources>
